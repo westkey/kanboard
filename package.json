@@ -3,7 +3,7 @@
   "devDependencies": {
   },
   "dependencies": {
-    "textarea-caret": "^3.0.2"
+    "textarea-caret": "^3.0.2",
     "bower": "^1.8.0",
     "gulp": "^3.9.1",
     "gulp-bower": "^0.0.13",
